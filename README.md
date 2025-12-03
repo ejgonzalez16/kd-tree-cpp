@@ -64,5 +64,3 @@ This implementation demonstrates:
 - Pruned search in metric spaces  
 
 ---
-NodoKD* hijoIzq;   // left child
-NodoKD* hijoDer;   // right child
